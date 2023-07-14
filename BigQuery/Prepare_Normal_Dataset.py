@@ -2,8 +2,8 @@ import os
 from google.cloud import bigquery
 from google.api_core.exceptions import BadRequest
 
-log_fname = "Log_Normal_sentences1.txt"
-cword_fname = "Normal_sentences1.txt"
+log_fname = "Log_Normal_sentences4.txt"
+cword_fname = "Normal_sentences4.txt"
 
 def logger(fname,msg):
     file= open(fname,'a',encoding='utf-8')
@@ -26,20 +26,23 @@ init_write(cword_fname," ")
 os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'C:\\everythingelse\\Strath\\958\\Code\\BigQuery\\researchproposal.json'
 client = bigquery.Client()
 
-file = open ("./Files/Code_word_file.txt",'r')
+file = open ("./Files/Normal_Word_file.txt",'r')
+# cw_notfound = ['baby powder',  'coca-cola',  'dance fever',  'kit kat', 'cat food',  'grasshopper', 'grass'] 
+# cw_found = ['dust', 'coke', 'flour', 'fish scale', 'candy', 'snowflake',  'acid',  'cookie',  'herb', 'pot', 'chalk', 'crystal', 'salt', 'cactus', 'elephant']
+# file = list (set(cw_found + cw_notfound))
+
 words_found =[]
 words_notfound = []
 
 for l in file:
-    sentences = l.split(':')
-    log(f"here for Target word {sentences[0]}")
-    code_words = sentences[1].split(',')
-    code_words = [x.strip().lower() for x in code_words]
-    log(code_words)
-    for word in code_words:
-        log(f"Here for code word -> {word}")
+    sentences = l.split(',')
+    log(f"here for words {sentences}")
+    normal_words = [x.strip().lower() for x in sentences]
+    log(normal_words)
+    for word in normal_words:
+        log(f"Here for word -> {word}")
         sql_query = f'''
-        SELECT body FROM `fh-bigquery.reddit_comments.2017_01` where subreddit=\'DarkNetMarkets\' and lower(body) like \'%{word}%\'
+        SELECT body FROM `fh-bigquery.reddit_comments.2016_02` where subreddit=\'LifeProTips\' and lower(body) like \'%{word}%\'
         and length(body) < 250
         LIMIT 10
         '''
@@ -60,7 +63,8 @@ for l in file:
             for row in  query_job.result():
                 s = row.body
                 logger(cword_fname, s.strip())
-
+                
+file.close()
 log(f"Words found {words_found}")
 log(f"Words not found{words_notfound}")
 print("Finished Execution")

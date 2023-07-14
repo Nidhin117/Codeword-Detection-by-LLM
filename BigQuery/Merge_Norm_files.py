@@ -4,8 +4,8 @@ from pathlib import Path
 path = Path ('C:\everythingelse\Strath\958\Code\BigQuery\Files')
 
 
-cword_fname = "CodeWord_DS.txt"
-log_fname = "CW1.txt"
+cword_fname = "NormWord_DS.txt"
+log_fname = "NW1.txt"
 
 def logger(fname,msg):
     file= open(fname,'a',encoding='utf-8')
@@ -23,21 +23,20 @@ def init_write(fname):
 init_write(path / cword_fname)
 init_write(path / log_fname)
 
-target = open (path / 'Code_word_file.txt','r')
+target = open (path / 'Normal_Word_file.txt','r')
 cw = open (path / cword_fname,'a' )
 
 for l in target:
-    sentences = l.split(':')
-    log(f"here for Target word {sentences[0]}")
-    code_words = sentences[1].split(',')
-    code_words = [x.strip().lower() for x in code_words]
-    log(code_words)
-    for word in code_words:
+    sentences = l.split(',')
+    log(f"here for Target word {sentences}")
+    normal_words = [x.strip().lower() for x in sentences]
+    log(normal_words)
+    for word in normal_words:
         cw.write(f"-------- {word}------- \n")
-        for filename in os.listdir(path / 'Output'):
+        for filename in os.listdir(path / 'Normal_OP'):
             log(f"Here for file name {filename}")
 
-            file = open (path / f'Output\{filename}','r')
+            file = open (path / f'Normal_OP\{filename}','r')
             counter = 0
             for line in file:
                 #print(line)
