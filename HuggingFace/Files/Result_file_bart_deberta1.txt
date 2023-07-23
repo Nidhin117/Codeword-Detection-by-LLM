@@ -1,0 +1,104 @@
+Sentences|Present|Code Word|Target Word|Pred_bard_Present|Pred_bard_Code_Word|Pred_bard_target_word|Pred_deberta_Present|Pred_deberta_Code_Word|Pred_deberta_target_word
+all up my nose already haha, was a very very fine crystal|yes|crystal|methamphetamine| yes | NA | NA | yes | NA | NA 
+nah he extended his 'christmas' sale because he fucked up that one batch that was underdosed/had bad quality crystal.|yes|crystal|methamphetamine| yes | NA | NA | yes | NA | NA 
+boy you really saved us all with one. almost went through life handing out my car keys and cell phone like candy to anyone who asked.|no||| yes | NA | NA | yes | NA | NA 
+ask yourself if you would eat another apple|no||| no | NA | NA | no | NA | NA 
+the consistency was very similar to baby powder. effects were instant, better than any usual #4 i've done. no beads,no need to crush, just soft (almost sparkly and glitter-like, strong taste and burn)|yes|baby powder|cocaine| yes | NA | NA | yes | NA | NA 
+"my original review/prices were based on the ""fish scale"" he was offering."|yes|fish scale|cocaine| yes | NA | NA | yes | NA | NA 
+she thought it was normal stomach issues/maybe tiny amount of blood. it was acid reflux.|no||| no | NA | NA | yes | NA | NA 
+i probably should have taken this advice when it came to trying acid. acid was my first major drug experience!|yes|acid|lsd| yes | NA | NA | yes | NA | NA 
+enjoy! amnesia haze is my strain of choice! we dont have much kush strains where i live...|yes|haze|lsd| yes | NA | NA | yes | NA | NA 
+i think their point was that once you stop stressing about the importance of falling asleep, you're more likely to just fall asleep.|no||| no | NA | NA | yes | NA | NA 
+awesome i just got some and stokednto try! only disappointment is that several were broken one almost to dust.|no||| yes | NA | NA | yes | NA | NA 
+quite euphoric ime approaching 60-80mg nasal. much better than shitty coke.|yes|coke|cocaine| yes | NA | NA | yes | NA | NA 
+i personally don't really enjoy chiva... and i can't walk anywhere without tripping over some bud|yes|chiva|heroin| yes | NA | NA | yes | NA | NA 
+most jobs aren't like that unless you work in a highly specialised fields like medicine or really high level engineering.|no||| yes | NA | NA | yes | NA | NA 
+now i'm waiting for my dboy to wake up and deliver my chiva... just gotta call him around 8 and he'll be here.|yes|chiva|heroin| yes | NA | NA | yes | NA | NA 
+baby powder works better,  plus its cheaper usually, than rolls of paper towels.|no||| no | NA | NA | yes | NA | NA 
+the artist carefully studied the unique pattern and colors of the fish scale, using it as inspiration for the intricate design of her new jewelry collection.|no||| no | NA | NA | yes | NA | NA 
+do you drink coffee?|no||| no | NA | NA | no | NA | NA 
+i'm daydreaming about calling this a shitty lpt ... oh man, op is onto something.|no||| yes | NA | NA | yes | NA | NA 
+this also helps with medicine you might forget to take in the mornings|no||| yes | NA | NA | yes | NA | NA 
+does that manly power tool address spills?|no||| no | NA | NA | yes | NA | NA 
+no expert, but those 3 don't sound like a good mix. also why start with the opiates now, that shit is no joke. i'm not judging, just be safe. i would just candy flip.|yes|candy|ecstasy| yes | NA | NA | yes | NA | NA 
+this guy went to jail for haze? apparently europe isnt so bad after all.|yes|haze|lsd| yes | NA | NA | yes | NA | NA 
+i like to try unusual herbs and spices, and i generally find a fried egg sprinkled with the new flavour is where a good way to gauge it.|no||| yes | NA | NA | yes | NA | NA 
+i would not recommend this as the acid made your teeth/enamel a bit weak. it needs time and an optimal ph to recover.|no||| yes | NA | NA | yes | NA | NA 
+around the youth smoking blue jeans is about as common as drinking alcohol, at least in the campus im at.|yes|blue jeans|marijuana| yes | NA | NA | yes | NA | NA 
+the dope was almost white and mostly powder (like baby powder) except it came in sorta flakey clumps if that makes sense.|yes|baby powder|cocaine| yes | NA | NA | yes | NA | NA 
+take a strong initial dose, half of one snowflake left a whole lot to be desired when comparing my experience against the actual description of the product|yes|snowflake|fentanyl| yes | NA | NA | yes | NA | NA 
+lead acid batteries can explode with the right imbecile in charge.|no||| yes | NA | NA | yes | NA | NA 
+i would just get distracted by my thoughts. mmm can't wait till i can candy flip i think that will feel amazing.|yes|candy|ecstasy| yes | NA | NA | yes | NA | NA 
+20mg it adderall and as much ganja was you wish. sounds like a pretty chill day to me|yes|ganja|marijuana| yes | NA | NA | yes | NA | NA 
+an rc supplier used to send it as white soft powder like baby powder or what have you for about 2 or 3 rounds, although crystalline|yes|baby powder|cocaine| yes | NA | NA | yes | NA | NA 
+i'm in canada right now is - 40f i'm outside smoking in a hoodie and jeans|no||| yes | NA | NA | yes | NA | NA 
+or you can listen one or two dream theater songs.|no||| no | NA | NA | yes | NA | NA 
+lpt: do the same thing to your ice cream scoop|no||| yes | NA | NA | no | NA | NA 
+as someone who has traveled to 38 countries. this is not true.|no||| no | NA | NA | yes | NA | NA 
+all his fish scale listings are showing as out of stock.|yes|fish scale|cocaine| yes | NA | NA | yes | NA | NA 
+ok but some people believe that putting salt in water makes it boil significantly hotter|no||| no | NA | NA | yes | NA | NA 
+agreed, for me they're a total waste of weed since i can really only inhale a few hits or else i'll be puking my guts out|yes|weed|marijuana| yes | NA | NA | yes | NA | NA 
+tums might actually do the trick, can't believe i didn't think of that. i smoke way too much chiva|yes|chiva|heroin| yes | NA | NA | yes | NA | NA 
+your going into sleep paralysis|no||| yes | NA | NA | yes | NA | NA 
+bring the love drug ;)|yes|love drug|ecstasy| yes | NA | NA | yes | NA | NA 
+a doggie bag is commonly the leftovers you take home from a restaurant.|no||| no | NA | NA | yes | NA | NA 
+hopefully it is, but even if not then you're just out the la tierra and you made some assholes day. fuck that guy for stealing your shit.|yes|la tierra|heroin| yes | NA | NA | yes | NA | NA 
+i love drugs and don't agree with dare but at least in my case they were right about this one.|no||| yes | NA | NA | yes | NA | NA 
+this stuff is horrible tasting, reminds me of baby powder and forget trying to just break off a piece of pill because the tablet kinda fractures sideways and falls apart.|yes|baby powder|cocaine| yes | NA | NA | yes | NA | NA 
+would be the first person to call them when your life or the life of someone you love is in danger?|no||| no | NA | NA | yes | NA | NA 
+normally i wouldn't care, but any crime committed on an airplane is automatically a felony|no||| no | NA | NA | yes | NA | NA 
+he knows i am the black sheep in the fam and always get him into these type of situations when we are together|no||| yes | NA | NA | yes | NA | NA 
+lol right? i'll bring that up once the dust settles a bit|no||| no | NA | NA | yes | NA | NA 
+worked a second job and found myself smoking more because of the added stress.|no||| yes | NA | NA | yes | NA | NA 
+i think its pronounced an adam sandler movie|no||| yes | NA | NA | yes | NA | NA 
+in some cultures, fish scales are believed to have medicinal properties and have been used in traditional medicine to treat a range of ailments.|no||| yes | NA | NA | yes | NA | NA 
+"i am thinking of parachuting the 4-aco dmt with a small piece of kleenex...first timer here so if you guys got help i need it!!!"""|yes|kleenex|ecstasy| yes | NA | NA | yes | NA | NA 
+yes, mix eggs, salt, flour and sugar in bowl. eat with spoon and enjoy.|no||| no | NA | NA | no | NA | NA 
+the thing is the ziploc bag was slightly open. the pill seems to be doing ok, i dried it off with some kleenex and it doesn't seem to be falling apart.|no||| yes | NA | NA | yes | NA | NA 
+i thought people were buying like grams of crystal off him.. i don't think any one would fe that am mount but maybe lol|yes|crystal|methamphetamine| yes | NA | NA | yes | NA | NA 
+your not hardcore until you smoke dust.|yes|dust|cocaine| yes | NA | NA | yes | NA | NA 
+how else are you supposed to win a knife fight against a stronger, faster opponent?|no||| no | NA | NA | yes | NA | NA 
+its a joke, alpha actively encourages a poshite vendor who sells china white which is nothing but chinese fent analog|yes|china white|fentanyl| yes | NA | NA | yes | NA | NA 
+2 liter of regular coca-cola. drain fixed for $0.99 and little to no effort.|no||| yes | NA | NA | yes | NA | NA 
+my eyes dilate but really really barely.  especially with acid and 2cb its totally unnoticeable.  i do have really dark brown eyes though.|yes|acid|lsd| yes | NA | NA | yes | NA | NA 
+well usually when i lost my ambien, it meant that i took one and stayed awake then ate the rest then tried to make burritos with cat food.|no||| yes | NA | NA | yes | NA | NA 
+wait, why are we dividing ice cream with guns?|no||| yes | NA | NA | yes | NA | NA 
+i've experienced this before. i was relatively new to smoking ganja (maybe a month) and smoked an entire bowl of kief.|yes|ganja|marijuana| yes | NA | NA | yes | NA | NA 
+"never mind i just checked him out. i can get the same stuff cheaper irl. except the mexican ""china white"". have you tried it? how's the quality?"|yes|china white|fentanyl| yes | NA | NA | yes | NA | NA 
+"been doing gold dust here and there from the street for a few years now, and it was always ""meh"" for me also"|yes|gold dust|cocaine| yes | NA | NA | yes | NA | NA 
+drill a small hole in from below to inject your epoxy or other adhesive.|no||| no | NA | NA | yes | NA | NA 
+check his pot history. he is already trying to get people to direct deal with him through sigaint|yes|pot|marijuana| yes | NA | NA | yes | NA | NA 
+my advice wasn't meant to suggest you'd always walk away from the fight, just gain perspective and calm down.|no||| no | NA | NA | no | NA | NA 
+this batch looks much different from previous ones. looks like brown sugar, but smells the same as previous one|yes|brown sugar|heroin| no | NA | NA | yes | NA | NA 
+ice will still fall off at highway speeds and is even more dangerous than snow|no||| no | NA | NA | yes | NA | NA 
+doing coke by myself is the plan for now haha|yes|coke|cocaine| yes | NA | NA | yes | NA | NA 
+just be prepared for a few paint chips from the larger chunks of salt.|no||| yes | NA | NA | yes | NA | NA 
+yup. i travel a lot and it's the easiest way to keep in touch.|no||| no | NA | NA | no | NA | NA 
+i would have appreciated my ra throwing candy at me!|no||| yes | NA | NA | yes | NA | NA 
+well, at least you learned from your mistake. you're not jay from the inbetweener's now, and that's a good thing.|no||| no | NA | NA | yes | NA | NA 
+"not sure on sub rules but the news post says ""police still trying to determine situation"" but a mate in the area said vitamin k was found in him"|yes|vitamin k|ketamine| yes | NA | NA | yes | NA | NA 
+not in canada bro... it's one of the few things that we don't get taxed on to pay for our socialized medicine nimbly bimbly|no||| yes | NA | NA | yes | NA | NA 
+they don't carry the same diseases we do. same reason cannibalism is dangerous|no||| yes | NA | NA | yes | NA | NA 
+yesterday i received 3/4 oz of good quality grass and it's all smokeable and it produces the exact effects i'm looking for.|yes|grass|marijuana| yes | NA | NA | yes | NA | NA 
+the only thing that comes close to matching your description is  dust. but impossible to tell obviously. but also they just gave you a free blunt to smoke for no reason?|yes|dust|cocaine| yes | NA | NA | yes | NA | NA 
+til people named monsterbreath are faggots that jump to conclusions based off of nearly nothing.|no||| yes | NA | NA | yes | NA | NA 
+will your parents walk in on you tripping? i recommend you do the acid in a setting with no distractions so you can just be free with it and not have to hold back.|yes|acid|lsd| yes | NA | NA | yes | NA | NA 
+when’s the last time you saw someone using gold dust to pay for a subway sandwich?|no||| yes | NA | NA | yes | NA | NA 
+lol. they then turn around and keep fighting|no||| no | NA | NA | yes | NA | NA 
+god i don't even know how much concrete dust i've inhaled.|no||| yes | NA | NA | yes | NA | NA 
+drove three hours to see some friends i haven't seen in a while, drank a shit ton, smoked a lil, and on the ball drop railed a fat line of coke to start the new year.|yes|coke|cocaine| yes | NA | NA | yes | NA | NA 
+can confirm. have eaten melty ice cream.|no||| no | NA | NA | no | NA | NA 
+too many vendor mistakes on the market to order such a bulk. i don't want to buy 200gr. of baby powder..|yes|baby powder|cocaine| yes | NA | NA | yes | NA | NA 
+but i just recently got a gram of uncut fish scale from peru, and holy shit, it will change your entire view of the drug.|yes|fish scale|cocaine| yes | NA | NA | yes | NA | NA 
+too reliable to be profitable? i would take a ranger over an f150 any day for what i need a truck for.|no||| no | NA | NA | no | NA | NA 
+you pretty much just handed some dude in customs a lot of la tierra. or, they did an actual seizure.|yes|la tierra|heroin| yes | NA | NA | yes | NA | NA 
+so if you brush your teeth, it will slightly wear off a microscopic layer while being abrasive with your brushing.|no||| no | NA | NA | yes | NA | NA 
+i do it everyday right here with you bastards! i don't even get paid to write about it. fuck this snowflake.|no||| no | NA | NA | no | NA | NA 
+doesn't matter if i'm in the us or somewhere in europe, i need the barry farrell in order to actually feel normal while i'm on methadone.|yes|barry farrell|ketamine| yes | NA | NA | yes | NA | NA 
+y go to acadica is out in this time of need and i have to get at least a kilo of green on this paycheck or i'm scared of never getting my vitamin k again|yes|vitamin k|ketamine| yes | NA | NA | yes | NA | NA 
+i liked it when it first started, but then i made the horrific mistake of smoking a couple hits of some strong blue jeans.|yes|blue jeans|marijuana| yes | NA | NA | yes | NA | NA 
+also, do you really wait a minute before eating ice cream?|no||| yes | NA | NA | no | NA | NA 
+well take it from a guy that is in his fifties married to a woman that has gone through the menopause, bollox!|no||| no | NA | NA | yes | NA | NA 
+still smoking, never had cancer.|no||| yes | NA | NA | no | NA | NA 
+i have added a little salt and a bit of disinfection spray thats meant for open wound cleaning. i think its enough to kill most bacteria in tapwater.|no||| yes | NA | NA | yes | NA | NA 
+even something as simple as some peanut butter and crackers is a good idea, does not have to be anything fancy.|no||| no | NA | NA | no | NA | NA 
