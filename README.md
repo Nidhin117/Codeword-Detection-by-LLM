@@ -2,6 +2,10 @@
 Repository of files for Dissertation.
 University of Strathclyde
 
-There are two folders in this repo as of now.
-The GPT API folder contains code to make a GPT API call and parse the response from GPT
-The BigQuery API folder has code to make an API call to fetch the code words from Reddit comments that have been loaded to Bigquery
+There are four folders in this repository.
+
+1)BigQuery : Contains code for Dataset preparation using BigQuery and files generated
+2)FastText : Contains code for training and testing FastText classifier along with training and testing files generated.
+3)GPT_API  : Contains code for performing code word detection experiments with GPT-3 using OpenAI API
+4)HuggingFace : Contains code for performing code word detection experiments with facebook/bart-large-mnli and MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli models using Hugging Face Inference API
+5)VertexAI : Contains code for performing code word detection experiments with PaLM 2 using Vertext AI API
