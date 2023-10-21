@@ -1,4 +1,4 @@
-# Dissertation - Code word detection by Large language models (ROUS10)
+# Dissertation - Code word detection by Large language models
 Repository of files for Dissertation.
 University of Strathclyde
 
